@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### This is my daily dev card
 
+<a href="https://app.daily.dev/denissima"><img src="https://api.daily.dev/devcards/v2/gywRVsc28vR10Wu0l5Zl1.png?type=default&r=x5u" width="356" alt="Denis Sima's Dev Card"/></a>
 <!--
 **simadeniss/simadeniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
